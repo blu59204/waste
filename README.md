@@ -102,7 +102,7 @@ Circular buttons for actions:
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Flutter SDK (>=2.12.0 <3.0.0)
+- Flutter SDK (>=3.0.0 <4.0.0)
 - Android Studio / VS Code
 - Android/iOS device or emulator
 
@@ -110,7 +110,7 @@ Circular buttons for actions:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/blu59204/waste.git
+git clone <your-repository-url>
 cd waste
 ```
 
@@ -223,7 +223,7 @@ buttonBrown: #A67C52
 ```
 
 ### Typography
-- **Font**: Poppins (system default fallback)
+- **Font**: System default (Roboto on Android, SF Pro on iOS)
 - **Sizes**: 12-40px range
 - **Weights**: Regular (400), Medium (600), Bold (700)
 
